@@ -19,3 +19,6 @@ Run `npx nx connect-to-nx-cloud` to enable [remote caching](https://nx.app) and 
 ## Further help
 
 Visit the [Nx Documentation](https://nx.dev) to learn more.
+
+## Helpful Docs
+* [Twitter-API-V2](https://github.com/plhery/node-twitter-api-v2#readme)
